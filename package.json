@@ -2,7 +2,7 @@
   "name": "test_indins",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://olvsivkov.github.io/test_indins/",
+  "homepage": " https://olvsivkov.github.io/test_indins/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
