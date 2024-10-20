@@ -94,7 +94,7 @@
     margin-bottom: 20px;
 }
 .scroll-container {
-    height: 85vh; /* Задайте высоту контейнера */
-    overflow-y: auto; /* Включаем прокрутку */
+    height: 85vh;
+    overflow-y: auto;
 }
 </style>
